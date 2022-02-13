@@ -1,34 +1,23 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+<p align="center">
+  <img src="https://i.imgur.com/qTpqtnh.png">
+</p>
 
-## Getting Started
+# How it works? 😁
+**Portfy** is as portfólio Next.js application created by **Jonathas Andrade** to facilitate developers life or inspirate then to make your personal website. 
 
-First, run the development server:
+## Get started 🚀
+If you want test or use this project in your personal machine, clone this repository utilizing Git command:
 
 ```bash
-npm run dev
-# or
-yarn dev
+git clone https://github.com/eljonathas/portfy.git
+cd portfy
+npm install
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+_Check if you have NodeJS and Git installed in your device._
 
-You can start editing the page by modifying `pages/index.js`. The page auto-updates as you edit the file.
+## How to set informations 🔧
+In `user_information.ts` localized in **configs dir** on project directory, you can set your personal informations like biography, avatar image, social links and more. This is a template configuration file, and he is necessary to define project informations.
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.js`.
-
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
-
-## Learn More
-
-To learn more about Next.js, take a look at the following resources:
-
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
-
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## To finish it 🙇
+Portfy is a **open source** project to personal use, but you are free to modify these application. So, i hope you enjoy this and fork or like the repository if you liked this project. 
